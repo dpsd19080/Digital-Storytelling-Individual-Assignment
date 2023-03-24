@@ -83,7 +83,8 @@
 
 ![ScreenShot](train.png)
 
-ανιμετιοσν ( χαρακτιρεσ, 
+Τέλος, για να τα κάνω animate βασίστικα στο [Lesson 4.1 - Creating a Timeline and Adding Keyframed Animation Tracks](https://learn.unity.com/tutorial/lesson-4-1-creating-a-timeline-and-adding-keyframed-animation-tracks?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed9b7cdedbc2a115bab2a9f#)
+Δηλαδή, έκανα ξανά drag and drop τα αμάξια και το τρένο στο timeline, ξανά Add Animation Track, μόνο που αυτή την φορά πάτησα το rec και δούλεψα με Add keys.
 
 # 2nd Deliverable
 

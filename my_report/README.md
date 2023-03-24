@@ -73,6 +73,8 @@
 
 Για την δημιουργία των animations χρησιμοποίησα το [Mixamo](https://www.mixamo.com/#/) το οποίο έλυσε τα προβλήματα, δημιουργίας πολλών aniamtions και σπατάλης χρόνου για αναζήτηση έτοιμων animations
 
+ #### Σημείωση: Στο παρακάτω βίντεο φαίνετε μόνο ο [Symbiotic Spider-Man (Andrew Garfield)](https://sketchfab.com/3d-models/symbiotic-spider-man-andrew-garfield-77c00d606ef54597be98d8d8142a9b7a). Οι υπόλοιποι χαρακτήρες θα εμφανιστούν στο τελικό αποτέλεσμα!
+
 ![ScreenShot](mixamo.png)
 
 Τέλος, έμενε μονάχα να κάνω animate δύο αντικείμενα. Κατέληξα σε αυτοκίνητα που υπήρχαν μέσα στα assets του [Japanese Otaku City](https://assetstore.unity.com/packages/3d/environments/urban/japanese-otaku-city-20359) 

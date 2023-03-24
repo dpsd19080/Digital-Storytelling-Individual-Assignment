@@ -40,6 +40,13 @@
 
 ![ScreenShot](ktirio_unit3.png)
 
+Όσο για τα Creative Challenges έπρεπε να προσθέσω:
+- 5 props (είτε αυτά που μου δίνονται στα assets των οδηγιών είτε κάποια που θα έβρισκα Online)
+- 1 δικό μου που θα έφτιαχνα στο Pro Builder του Unity
+
+Για το πρώτο, χρησιμοποίησα τρία απο αυτά που έρχονταν με το κτήριο που ανέφερα παραπάνω. Πιο συγκεκριμένα, τα παγκάκια, τις λάμπες και τις καρέκλες/τραπέζια μέσα) Τα υπόλοιπα τα βρήσα από το cgtrader και sketchfab αντίστοιχα: [Dumpster PBR Free low-poly 3D model](https://www.cgtrader.com/free-3d-models/exterior/street-exterior/dumpster-pbr-e593aea2-b340-4fdf-936e-7c6f92ba1e2b), [WIP: Shelby Cobra *Update June 06 2015](https://sketchfab.com/3d-models/wip-shelby-cobra-update-june-06-2015-f0ac3a16165e40e4aeaec9858d2c3785)
+
+Φαίνεται καλύτερα στο βίντεο [εδώ] 
 
 5 προπσ + 1 δικο μου
 

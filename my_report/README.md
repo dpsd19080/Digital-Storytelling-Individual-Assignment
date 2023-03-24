@@ -27,7 +27,11 @@
 Για την υλοποίηση των δύο πρώτων, χρησιμοποίησα μια έτοιμη πόλη που βρήκα στο Asset Store του Unity: [Japanese Otaku City](https://assetstore.unity.com/packages/3d/environments/urban/japanese-otaku-city-20359)
 
 Έπειτα, όπως ζητάει έφτιαξα τα εξής materials:
+
 ![ScreenShot](materials.png)
+
+Τέλος, άλλαξα το Directional Light με σκοπό να φαίνεται σνα να είναι βράδυ
+
 
 
 Επίσης, για να καλύψω τα γενικά ζητήματα του Unit 3, χρησιμοποίησα αυτό το κτήριο: το οποίο επεξεργάστικα και του πρόσθεσα φωτά 

@@ -71,6 +71,18 @@
 
  #### Σημείωση: Το τέταρτο μοντέλο (Spider-Man) είναι μια συνεργασία του συμφητητή μου: [Μιχαήλ-Άγγελου Σωτήρχου](https://github.com/MichailAngelosSotirchos) με εμένα. Εκείνος δημιούργησε το μοντέλο και εγώ σχεδίασα την στολή.
 
+Για την δημιουργία των animations χρησιμοποίησα το [Mixamo](https://www.mixamo.com/#/) το οποίο έλυσε τα προβλήματα, δημιουργίας πολλών aniamtions και σπατάλης χρόνου για αναζήτηση έτοιμων animations
+
+![ScreenShot](mixamo.png)
+
+Τέλος, έμενε μονάχα να κάνω animate δύο αντικείμενα. Κατέληξα σε αυτοκίνητα που υπήρχαν μέσα στα assets του [Japanese Otaku City](https://assetstore.unity.com/packages/3d/environments/urban/japanese-otaku-city-20359) 
+
+![ScreenShot](cars.png)
+
+και σε ένα τρένο που βρήκα στο cgtrader: [ELECTRIC TRAIN](https://www.cgtrader.com/free-3d-models/vehicle/train/electric-train-c73e99fe-d31f-4b67-9039-020a5ab348d7)
+
+![ScreenShot](train.png)
+
 ανιμετιοσν ( χαρακτιρεσ, 
 
 # 2nd Deliverable

@@ -102,3 +102,16 @@
 
 
 # Sources
+#### 1st Deliverable:
+- [Unit 2 - Real-time Previsualization](https://learn.unity.com/project/unit-2-realtime-previsualization?uv=2019.4&courseId=5ee00851edbc2a0022274f75)
+- [Unit 3 - Environment, Modeling, and Set Dressing](https://learn.unity.com/project/unit-3-environment-modeling-set-dressing-in-unity?uv=2019.4&courseId=5ee00851edbc2a0022274f75)
+- [Unit 4 - Animation](https://learn.unity.com/project/unit-4-creating-an-animatic-a-preliminary-version-of-an-animation?uv=2019.4&courseId=5ee00851edbc2a0022274f75)
+- [Japanese Otaku City](https://assetstore.unity.com/packages/3d/environments/urban/japanese-otaku-city-20359)
+- [Hotel building 3D Model](https://www.cgtrader.com/free-3d-models/architectural/architectural-street/hotel-building-3d-model-29fbeca1-4246-4448-85b8-8fae44c1551f)
+- [Dumpster PBR Free low-poly 3D model](https://www.cgtrader.com/free-3d-models/exterior/street-exterior/dumpster-pbr-e593aea2-b340-4fdf-936e-7c6f92ba1e2b)
+- [WIP: Shelby Cobra *Update June 06 2015](https://sketchfab.com/3d-models/wip-shelby-cobra-update-june-06-2015-f0ac3a16165e40e4aeaec9858d2c3785)
+- [Symbiotic Spider-Man (Andrew Garfield)](https://sketchfab.com/3d-models/symbiotic-spider-man-andrew-garfield-77c00d606ef54597be98d8d8142a9b7a)
+- [Amazing Spider-Man 2 Movie](https://sketchfab.com/3d-models/amazing-spider-man-2-movie-bbdc7978e8554c97a66feffad5f7d33f)
+- [Little Boy Rigged](https://www.cgtrader.com/free-3d-models/character/child/little-boy-rigged-animated-game-ready)
+- [Mixamo](https://www.mixamo.com/#/)
+- ELECTRIC TRAIN](https://www.cgtrader.com/free-3d-models/vehicle/train/electric-train-c73e99fe-d31f-4b67-9039-020a5ab348d7)

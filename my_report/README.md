@@ -30,10 +30,13 @@
 
 ![ScreenShot](materials.png)
 
-Τέλος, άλλαξα το Directional Light με σκοπό να φαίνεται σνα να είναι βράδυ
+Τέλος, άλλαξα το Directional Light με σκοπό να φαίνεται σαν να είναι βράδυ
 
+![ScreenShot](lights.png)
 
+[Τελικό αποτέλεσμα](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable1/Unit2/README.md)
 
+Περνώντας στο Unit 3 και τα Creative Challenges του
 Επίσης, για να καλύψω τα γενικά ζητήματα του Unit 3, χρησιμοποίησα αυτό το κτήριο: το οποίο επεξεργάστικα και του πρόσθεσα φωτά 
 
 

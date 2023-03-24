@@ -64,6 +64,13 @@
 
 Στο δεύτερο challenge, χρησιμοποίησα τέσσερις χαρακτήρες: [Symbiotic Spider-Man (Andrew Garfield)](https://sketchfab.com/3d-models/symbiotic-spider-man-andrew-garfield-77c00d606ef54597be98d8d8142a9b7a), [Amazing Spider-Man 2 Movie](https://sketchfab.com/3d-models/amazing-spider-man-2-movie-bbdc7978e8554c97a66feffad5f7d33f), [Little Boy Rigged](https://www.cgtrader.com/free-3d-models/character/child/little-boy-rigged-animated-game-ready)
 
+![ScreenShot](symbiote_tasm.png)
+![ScreenShot](tasm.png)
+![ScreenShot](boy.png)
+![ScreenShot](myspidey.png)
+
+ #### Σημείωση: Το τέταρτο μοντέλο (Spider-Man) είναι μια συνεργασία του συμφητητή μου: [Μιχαήλ-Άγγελο Σωτήρχο](https://github.com/MichailAngelosSotirchos) με εμένα. Εκείνος δημιούργησε το μοντέλο και εγώ σχεδίασα την στολή του Spider-Man.
+
 ανιμετιοσν ( χαρακτιρεσ, 
 
 # 2nd Deliverable

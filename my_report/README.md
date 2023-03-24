@@ -46,14 +46,12 @@
 
 Για το πρώτο, χρησιμοποίησα τρία απο αυτά που έρχονταν με το κτήριο που ανέφερα παραπάνω. Πιο συγκεκριμένα, τα παγκάκια, τις λάμπες και τις καρέκλες/τραπέζια μέσα) Τα υπόλοιπα τα βρήσα από το cgtrader και sketchfab αντίστοιχα: [Dumpster PBR Free low-poly 3D model](https://www.cgtrader.com/free-3d-models/exterior/street-exterior/dumpster-pbr-e593aea2-b340-4fdf-936e-7c6f92ba1e2b), [WIP: Shelby Cobra *Update June 06 2015](https://sketchfab.com/3d-models/wip-shelby-cobra-update-june-06-2015-f0ac3a16165e40e4aeaec9858d2c3785)
 
-Φαίνονται όλα τα props καλύτερα στο βίντεο [εδώ](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/tree/main/dailies/Deliverable1/Unit3)
 
 Τέλος, έλειπε μονάχα να φτιάξω το δικό μου prop. Επέλεξα (μιας και μου επιτράπηκε) να χρησιμοποιήσω το blender αντί για το Pro Builder, επειδή θεωρώ πως μπορώ να παράγω καλύτερο αποτέλεσμα μέσα απο αυτό.
 
 ![ScreenShot](my_prop.jpg)
 
-
-5 προπσ + 1 δικο μου
+Φαίνονται όλα τα props καλύτερα στο βίντεο [εδώ](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/tree/main/dailies/Deliverable1/Unit3)
 
 Κάπου εδώ έπρεπε να ασχοληθώ με το αγαπημένο Unit 4 που περίμενα από την αρχή! 
 ανιμετιοσν ( χαρακτιρεσ, 

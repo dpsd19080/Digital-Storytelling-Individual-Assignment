@@ -24,6 +24,17 @@
  - Τουλάχιστον 5 διαφορετικα Materials
  - Διαφορετικό χρώμα και τοποθεσία του Directional Light 
 
+Για την υλοποίηση των δύο πρώτων, χρησιμοποίησα μια έτοιμη πόλη που βρήκα στο Asset Store του Unity: [Japanese Otaku City](https://assetstore.unity.com/packages/3d/environments/urban/japanese-otaku-city-20359)
+
+Έπειτα, όπως ζητάει έφτιαξα τα εξής materials 
+
+
+Επίσης, για να καλύψω τα γενικά ζητήματα του Unit 3, χρησιμοποίησα αυτό το κτήριο: το οποίο επεξεργάστικα και του πρόσθεσα φωτά 
+
+
+5 προπσ + 1 δικο μου
+
+ανιμετιοσν ( χαρακτιρεσ, 
 
 # 2nd Deliverable
 

@@ -62,6 +62,8 @@
 
 Πρώτο challenge, αρκετά απλό. Δημιούργησα ένα Master Timeline κάνοντας δεξί κλικ > Create Empty και ονομάζοντας το "Master Timeline". Έχοντας ανοίξει το Timeline παράθυρο, έκανα drag and drop το Master Timeline και επέλεξα "Add Animation Track". Μετά απλός έβαζα εκεί τα animations μου και τα επεξεργαζόμουν καταλλήλως.
 
+![ScreenShot](master_timeline.png)
+
 Στο δεύτερο challenge, χρησιμοποίησα τέσσερις χαρακτήρες: [Symbiotic Spider-Man (Andrew Garfield)](https://sketchfab.com/3d-models/symbiotic-spider-man-andrew-garfield-77c00d606ef54597be98d8d8142a9b7a), [Amazing Spider-Man 2 Movie](https://sketchfab.com/3d-models/amazing-spider-man-2-movie-bbdc7978e8554c97a66feffad5f7d33f), [Little Boy Rigged](https://www.cgtrader.com/free-3d-models/character/child/little-boy-rigged-animated-game-ready)
 
 ![ScreenShot](symbiote_tasm.png)

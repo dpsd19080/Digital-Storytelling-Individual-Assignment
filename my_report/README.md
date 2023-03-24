@@ -36,7 +36,7 @@
 
 [Τελικό αποτέλεσμα](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/dailies/Deliverable1/Unit2/README.md)
 
-Περνώντας στο [Unit 3](https://learn.unity.com/project/unit-3-environment-modeling-set-dressing-in-unity?uv=2019.4&courseId=5ee00851edbc2a0022274f75) και τα [Creative Challenges](https://learn.unity.com/tutorial/unit-3-creative-challenge?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed981dbedbc2a03f97c0646) του. Για να καλύψω τα γενικά ζητήματα του, χρησιμοποίησα αυτό το κτήριο: [Hotel building 3D Model](https://www.cgtrader.com/free-3d-models/architectural/architectural-street/hotel-building-3d-model-29fbeca1-4246-4448-85b8-8fae44c1551f) το οποίο επεξεργάστικα και του πρόσθεσα φωτά 
+Περνώντας στο [Unit 3](https://learn.unity.com/project/unit-3-environment-modeling-set-dressing-in-unity?uv=2019.4&courseId=5ee00851edbc2a0022274f75) και τα [Creative Challenges](https://learn.unity.com/tutorial/unit-3-creative-challenge?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed981dbedbc2a03f97c0646) του. Για να καλύψω τα γενικά ζητήματα του, χρησιμοποίησα αυτό το κτήριο: [Hotel building 3D Model](https://www.cgtrader.com/free-3d-models/architectural/architectural-street/hotel-building-3d-model-29fbeca1-4246-4448-85b8-8fae44c1551f) το οποίο επεξεργάστικα και του πρόσθεσα φώτα 
 
 ![ScreenShot](ktirio_unit3.png)
 

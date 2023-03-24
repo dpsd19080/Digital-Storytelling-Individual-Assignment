@@ -114,4 +114,4 @@
 - [Amazing Spider-Man 2 Movie](https://sketchfab.com/3d-models/amazing-spider-man-2-movie-bbdc7978e8554c97a66feffad5f7d33f)
 - [Little Boy Rigged](https://www.cgtrader.com/free-3d-models/character/child/little-boy-rigged-animated-game-ready)
 - [Mixamo](https://www.mixamo.com/#/)
-- ELECTRIC TRAIN](https://www.cgtrader.com/free-3d-models/vehicle/train/electric-train-c73e99fe-d31f-4b67-9039-020a5ab348d7)
+- [ELECTRIC TRAIN](https://www.cgtrader.com/free-3d-models/vehicle/train/electric-train-c73e99fe-d31f-4b67-9039-020a5ab348d7)

@@ -54,6 +54,16 @@
 Φαίνονται όλα τα props καλύτερα στο βίντεο [εδώ](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/tree/main/dailies/Deliverable1/Unit3)
 
 Κάπου εδώ έπρεπε να ασχοληθώ με το αγαπημένο [Unit 4](https://learn.unity.com/project/unit-4-creating-an-animatic-a-preliminary-version-of-an-animation?uv=2019.4&courseId=5ee00851edbc2a0022274f75) που περίμενα από την αρχή! 
+
+Τα [Creative Challenges](https://learn.unity.com/tutorial/unit-4-creative-challenge?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed9b7cdedbc2a115bab2a9f#) εδώ είναι τα εξής:
+- 1 Master Timeline
+- Τουλάχιστον 1 Animated Χαρακτήρα 
+- Τουλάχιστον 2 Animated Αντικείμενα 
+
+Πρώτο challenge, αρκετά απλό. Δημιούργησα ένα Master Timeline κάνοντας δεξί κλικ > Create Empty και ονομάζοντας το "Master Timeline". Έχοντας ανοίξει το Timeline παράθυρο, έκανα drag and drop το Master Timeline και επέλεξα "Add Animation Track". Μετά απλός έβαζα εκεί τα animations μου και τα επεξεργαζόμουν καταλλήλως.
+
+Στο δεύτερο challenge, χρησιμοποίησα τέσσερις χαρακτήρες: [Symbiotic Spider-Man (Andrew Garfield)](https://sketchfab.com/3d-models/symbiotic-spider-man-andrew-garfield-77c00d606ef54597be98d8d8142a9b7a), [Amazing Spider-Man 2 Movie](https://sketchfab.com/3d-models/amazing-spider-man-2-movie-bbdc7978e8554c97a66feffad5f7d33f), [Little Boy Rigged](https://www.cgtrader.com/free-3d-models/character/child/little-boy-rigged-animated-game-ready)
+
 ανιμετιοσν ( χαρακτιρεσ, 
 
 # 2nd Deliverable

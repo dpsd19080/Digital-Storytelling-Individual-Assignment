@@ -13,7 +13,7 @@
 Η ατομική εργασία χωρίζεται σε τρία παραδοτέα: 
 #### [1st Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#1st-deliverable-1):
 #### [2st Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#2nd-deliverable):
-#### [3st Deliverable](https://github.com/dpsd19080/Role-Playing-Game/tree/main/my_report#3rd-deliverable):
+#### [3st Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#3rd-deliverable):
 
 # 1st Deliverable
 Ξεκίνησα την εργασία ακολουθώντας τις οδηγίες που μας δόθηκαν για το

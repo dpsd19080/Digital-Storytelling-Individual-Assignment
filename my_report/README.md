@@ -73,7 +73,7 @@
 
 Για την δημιουργία των animations χρησιμοποίησα το [Mixamo](https://www.mixamo.com/#/) το οποίο έλυσε τα προβλήματα, δημιουργίας πολλών aniamtions και σπατάλης χρόνου για αναζήτηση έτοιμων animations
 
- #### Σημείωση: Στο παρακάτω βίντεο φαίνετε μόνο ο [Symbiotic Spider-Man (Andrew Garfield)](https://sketchfab.com/3d-models/symbiotic-spider-man-andrew-garfield-77c00d606ef54597be98d8d8142a9b7a). Οι υπόλοιποι χαρακτήρες θα εμφανιστούν στο τελικό αποτέλεσμα!
+ #### Σημείωση: Στο τελικό βίντεο του παραδοτέου για τα animations (βρίσκεται στο τέλος της αναφοράς του 1st Deliverable) φαίνετε μόνο ο [Symbiotic Spider-Man (Andrew Garfield)](https://sketchfab.com/3d-models/symbiotic-spider-man-andrew-garfield-77c00d606ef54597be98d8d8142a9b7a). Οι υπόλοιποι χαρακτήρες θα εμφανιστούν στο τελικό αποτέλεσμα!
 
 ![ScreenShot](mixamo.png)
 
@@ -87,6 +87,8 @@
 
 Τέλος, για να τα κάνω animate βασίστικα στο [Lesson 4.1 - Creating a Timeline and Adding Keyframed Animation Tracks](https://learn.unity.com/tutorial/lesson-4-1-creating-a-timeline-and-adding-keyframed-animation-tracks?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed9b7cdedbc2a115bab2a9f#)
 Δηλαδή, έκανα ξανά drag and drop τα αμάξια και το τρένο στο timeline, ξανά Add Animation Track, μόνο που αυτή την φορά πάτησα το rec και δούλεψα με Add keys.
+
+[Τελικό αποτέλεσμα](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/tree/main/dailies/Deliverable1/Unit4) 
 
 # 2nd Deliverable
 

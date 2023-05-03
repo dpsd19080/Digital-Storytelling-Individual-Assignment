@@ -127,9 +127,13 @@
 
 ![ScreenShot](post_processing.png)
 
-Στο τέταρτο challenge, αρκετά απλό και πάλι, Window > Rendering > Lighting. Στο παράθυρο που θα ανοίξει πήγα στην επιλογή "Enviroment",επέλεξα το fog και το ρύθμισα αναλόγως
+Στο τέταρτο challenge, αρκετά απλό και πάλι, Window > Rendering > Lighting. Στο παράθυρο που θα ανοίξει πήγα στην επιλογή "Environment", επέλεξα το fog και το ρύθμισα αναλόγως
 
 ![ScreenShot](fog.jpg)
+
+Τέλος, για το depth of field, πήγα στη εκάστοτε κάμερα (στο timeline) που θα το έβαζα, έφτιαξα ένα νέο Extension και συγκεκριμένα "CinemachineVolumeSettings", δημιούργησα νέο Profile και επέλεξα το "Depth of Field" 
+
+![ScreenShot](depth_of_field.png)
 
 # 3rd Deliverable 
 

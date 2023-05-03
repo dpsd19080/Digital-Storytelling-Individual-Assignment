@@ -115,13 +115,17 @@
 Περνώντας στο [Unit 6](https://learn.unity.com/project/unit-6-adding-visual-fidelity-through-lighting?uv=2019.4&courseId=5ee00851edbc2a0022274f75) και τα [Creative Challenges](https://learn.unity.com/tutorial/unit-6-creative-challenge?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5edf24a2edbc2a001f617ef1#) του, πρέπει:
 - Να προσθέσω περισσότερα φώτα στην σκηνή 
 - Να προσθέσω color grading
-- Να προσθέσω fog
 - Να προσθέσω bloom
+- Να προσθέσω fog
 - Να ρυθμίσω το depth of field στις κάμερες 
 
 Πρώτο challenge, αρκετά απλό, δεξί κλικ στο Hieratchy > Light > Οποιαδήποτε επιλογή, ανάλογα την περίσταση. Ύστερα από μερικές προσθήκες το αποτέλεσμα είναι το εξής
 
 ![ScreenShot](more_lights.png)
+
+Στο δεύτερο και τρίτο challenge, η λογική ήταν παρόμοια. Αρχικά, δημιούργησα ένα "Create Empty" και το ονόμασα "ScenePostProcessing". Στην συνέχεια, πρόσθεσα με "Add Component"  το έτοιμο script ονόματι "Volume" και μέσα στο profile προσθέσα το "ScenePostProcessing". Έπειτα επιλέγοντας το "Add Override" πρόσθεσα τα ακόλουθα.
+
+![ScreenShot](post_processing.png)
 
 # 3rd Deliverable 
 

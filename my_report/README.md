@@ -98,13 +98,13 @@
  - Τουλάχιστον 3 Virtual Camera shots
  - Τουλάχιστον 1 blended shot ανάμεσα σε δύο Virtual Cameras
 
-Για την υλοποίηση του πρώτου, βασιζόμενος στο tutorial του [Unit 5](https://learn.unity.com/project/unit-5-create-compelling-shots-using-virtual-cameras?uv=2019.4&courseId=5ee00851edbc2a0022274f75) πρόσθεσα στην main camera το "CinemachineBrain" μέσω του Add Component 
+Για την υλοποίηση του πρώτου, βασιζόμενος στο tutorial του [Lesson 5.3 - Using Cinemachine to Create Multi-Camera Shots](https://learn.unity.com/tutorial/lesson-5-3-using-cinemachine-to-create-a-multi-camera-shot?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5edae20fedbc2a0021a0cf31#) πρόσθεσα στην main camera το "CinemachineBrain" μέσω του Add Component 
 
 ![ScreenShot](CinemachineBrain.png)
 
 Έπειτα, δημιούργισα ένα Cinemachine track στο timeline (σέρνοντας την main κάμερα εκεί). Πλέον μου έλειπε να δημιουργώ μια νέα Virtual Camera για κάθε διαφορετικό πλάνο που θέλω και να την κάνω animate όποτε χρειάζεται. 
 
-![ScreenShot](Virtual Cameras.png)
+![ScreenShot](Virtual_cameras.png)
 
 # 3rd Deliverable 
 

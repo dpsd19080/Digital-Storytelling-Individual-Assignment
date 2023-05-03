@@ -94,6 +94,8 @@
 
 # 2nd Deliverable
 
+Σε αυτό το παραδοτέο, με βάση τα [Creative Challenges](https://learn.unity.com/tutorial/unit-5-creative-challenge?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5edae20fedbc2a0021a0cf31#) του [Unit 5](https://learn.unity.com/project/unit-5-create-compelling-shots-using-virtual-cameras?uv=2019.4&courseId=5ee00851edbc2a0022274f75) πρέπει να έχω:
+ - Τουλάχιστον 5 διαφορετικα κτήρια, σε διαφορετικά σχήματα 
 
 # 3rd Deliverable 
 

@@ -106,6 +106,10 @@
 
 ![ScreenShot](Virtual_cameras.png)
 
+Για το δεύτερο έπρεπε μονάχα να σύρω την μια κάμερα μέσα στην άλλη
+
+![ScreenShot](Virtual_cameras_blend.png)
+
 # 3rd Deliverable 
 
 

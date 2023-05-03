@@ -127,6 +127,10 @@
 
 ![ScreenShot](post_processing.png)
 
+Στο τέταρτο challenge, αρκετά απλό και πάλι, Window > Rendering > Lighting. Στο παράθυρο που θα ανοίξει πήγα στην επιλογή "Enviroment",επέλεξα το fog και το ρύθμισα αναλόγως
+
+![ScreenShot](fog.jpg)
+
 # 3rd Deliverable 
 
 

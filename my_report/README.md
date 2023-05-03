@@ -152,7 +152,7 @@
 
 ![ScreenShot](sparks.png)
 
-Τέλος, για να ολοκληρώσω το παραδοτέο και τα challenges, έμενε μονάχα να προσθέσω sound effect. Πάρα πολύ απλό. Πρόσθεσα στα assets μου το audio που ήθελα για sound effect και έπειτα το έσυρα στο κατάλληλο χρονικό σημείο στο timeline
+Τέλος, για να ολοκληρώσω το παραδοτέο και τα challenges, έμενε μονάχα να προσθέσω sound effect. Πάρα πολύ απλό. Πρόσθεσα στα assets μου το [audio](https://www.youtube.com/watch?v=PlSAlGtJmZU) που ήθελα για sound effect και έπειτα το έσυρα στο κατάλληλο χρονικό σημείο στο timeline
 
 ![ScreenShot](sound_effect.png)
 

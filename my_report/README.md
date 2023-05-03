@@ -135,6 +135,19 @@
 
 ![ScreenShot](depth_of_field.png)
 
+[Τελικό αποτέλεσμα](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/tree/main/dailies/Deliverable2/Unit6)
+
+Κάπου εδώ έπρεπε να ασχοληθώ με [Unit 7](https://learn.unity.com/project/unit-7-effects-and-final-render?uv=2019.4&courseId=5ee00851edbc2a0022274f75) το οποίο έχει να κάνει με διάφορα Effects
+
+Τα [Creative Challenges](https://learn.unity.com/tutorial/unit-7-creative-challenge?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee3cd25edbc2a0cafec2d33#) εδώ είναι τα εξής:
+- Ατμού ή καπνούς
+- Σπίθες 
+- Τουλάχιστον 1 audio
+
+Αρχικά, για να δημιουργήσω καπνούς έπρεπε να κάνω δεξί κλικ στο Hierarchy > Effects > Particle System. Μετά ακολουθώντας τις οδηγίες του [Lesson 7.1 - Creating Visual Effects](https://learn.unity.com/tutorial/lesson-7-1-creating-visual-effects?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee3cd25edbc2a0cafec2d33#) έμαθα να ρυθμίσω το Particle System έτσι ώστε να μοιάζει με καπνό το τελικο αποτελέσματα
+
+![ScreenShot](smock_eff.png)
+
 # 3rd Deliverable 
 
 

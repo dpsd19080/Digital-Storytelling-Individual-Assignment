@@ -98,6 +98,10 @@
  - Τουλάχιστον 3 Virtual Camera shots
  - Τουλάχιστον 1 blended shot ανάμεσα σε δύο Virtual Cameras
 
+Για την υλοποίηση του πρώτου βασιζόμενος στο tutorial του [Unit 5](https://learn.unity.com/project/unit-5-create-compelling-shots-using-virtual-cameras?uv=2019.4&courseId=5ee00851edbc2a0022274f75) πρόσθεσα στην main camera το "CinemachineBrain" μέσω του Add Property 
+
+![ScreenShot](CinemachineBrain.png)
+
 # 3rd Deliverable 
 
 

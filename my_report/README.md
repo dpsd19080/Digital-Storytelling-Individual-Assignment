@@ -140,8 +140,8 @@
 Κάπου εδώ έπρεπε να ασχοληθώ με [Unit 7](https://learn.unity.com/project/unit-7-effects-and-final-render?uv=2019.4&courseId=5ee00851edbc2a0022274f75) το οποίο έχει να κάνει με διάφορα Effects
 
 Τα [Creative Challenges](https://learn.unity.com/tutorial/unit-7-creative-challenge?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee3cd25edbc2a0cafec2d33#) εδώ είναι τα εξής:
-- Δημιουργία Ατμού ή καπνούς
-- Δημιουργία Σπίθες 
+- Δημιουργία Ατμού ή καπνού
+- Δημιουργία Σπίθων 
 - Τουλάχιστον 1 audio για sound effect
 
 Αρχικά, για να δημιουργήσω καπνούς έπρεπε να κάνω δεξί κλικ στο Hierarchy > Effects > Particle System. Μετά ακολουθώντας τις οδηγίες του [Lesson 7.1 - Creating Visual Effects](https://learn.unity.com/tutorial/lesson-7-1-creating-visual-effects?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee3cd25edbc2a0cafec2d33#) έμαθα να ρυθμίσω το Particle System έτσι ώστε να μοιάζει με καπνό το τελικο αποτελέσματα
@@ -178,3 +178,9 @@
 - [Little Boy Rigged](https://www.cgtrader.com/free-3d-models/character/child/little-boy-rigged-animated-game-ready)
 - [Mixamo](https://www.mixamo.com/#/)
 - [ELECTRIC TRAIN](https://www.cgtrader.com/free-3d-models/vehicle/train/electric-train-c73e99fe-d31f-4b67-9039-020a5ab348d7)
+
+#### 2nd Deliverable:
+- [Unit 5 - Cinematography](https://learn.unity.com/project/unit-5-create-compelling-shots-using-virtual-cameras?uv=2019.4&courseId=5ee00851edbc2a0022274f75)
+- [Unit 6 - Adding Visual Fidelity Through Lighting](https://learn.unity.com/project/unit-6-adding-visual-fidelity-through-lighting?uv=2019.4&courseId=5ee00851edbc2a0022274f75)
+- [Unit 7 - Effects and Final Render](https://learn.unity.com/project/unit-7-effects-and-final-render?uv=2019.4&courseId=5ee00851edbc2a0022274f75)
+- [THE AMAZING SPIDER-MAN WEB SHOOTER SOUND EFEECT](https://www.youtube.com/watch?v=PlSAlGtJmZU)

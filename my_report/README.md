@@ -12,8 +12,8 @@
 # Summary
 Η ατομική εργασία χωρίζεται σε τρία παραδοτέα: 
 #### [1st Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#1st-deliverable-1):
-#### [2st Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#2nd-deliverable):
-#### [3st Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#3rd-deliverable):
+#### [2nd Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#2nd-deliverable):
+#### [3rd Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#3rd-deliverable):
 
 # 1st Deliverable
 Μου δόθηκε η επιλογή από τον δηδάσκοντα, είτε να ακολουθήσω επακριβώς τις οδηγίες των Units δημιουργώντας το επιθυμητό αποτέλεσμα με τα assets και τις προδιαγραφές τους για αρχή και έπειτα να κάνω την διαδηκασία ξανά με σκοπό την δημιουργία του δικού μου project (βασισμένο στα units) είτε να αρχίσω να υλοποιώ εξαρχής την δική μου ιδέα. Αποφάσισα λοιπόν να ξεκινήσω από τώρα το δικό μου project.
@@ -201,4 +201,11 @@
 - [Unit 5 - Cinematography](https://learn.unity.com/project/unit-5-create-compelling-shots-using-virtual-cameras?uv=2019.4&courseId=5ee00851edbc2a0022274f75)
 - [Unit 6 - Adding Visual Fidelity Through Lighting](https://learn.unity.com/project/unit-6-adding-visual-fidelity-through-lighting?uv=2019.4&courseId=5ee00851edbc2a0022274f75)
 - [Unit 7 - Effects and Final Render](https://learn.unity.com/project/unit-7-effects-and-final-render?uv=2019.4&courseId=5ee00851edbc2a0022274f75)
+- [THE AMAZING SPIDER-MAN WEB SHOOTER SOUND EFEECT](https://www.youtube.com/watch?v=PlSAlGtJmZU)
+
+#### 3rd Deliverable:
+- [Young Peter](https://www.youtube.com/watch?v=fn15NuU-T4M) 
+- [Shots Fired](https://www.youtube.com/watch?v=JpwTx4G2EAM) 
+- [You're That Spider Guy](https://www.youtube.com/watch?v=_wDqQ9yO_Zc)
+- [MTV SPIDER-SENSE SOUND EFFECT](https://www.youtube.com/watch?v=l0iPJmU6kBA)
 - [THE AMAZING SPIDER-MAN WEB SHOOTER SOUND EFEECT](https://www.youtube.com/watch?v=PlSAlGtJmZU)

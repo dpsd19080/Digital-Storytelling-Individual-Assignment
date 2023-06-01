@@ -13,7 +13,7 @@
 Η ατομική εργασία χωρίζεται σε τρία παραδοτέα: 
 #### [1st Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#1st-deliverable-1):
 #### [2nd Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#2nd-deliverable):
-#### [3rd Deliverable]():
+#### [3rd Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#3rd-deliverable):
 
 # 1st Deliverable
 Μου δόθηκε η επιλογή από τον δηδάσκοντα, είτε να ακολουθήσω επακριβώς τις οδηγίες των Units δημιουργώντας το επιθυμητό αποτέλεσμα με τα assets και τις προδιαγραφές τους για αρχή και έπειτα να κάνω την διαδηκασία ξανά με σκοπό την δημιουργία του δικού μου project (βασισμένο στα units) είτε να αρχίσω να υλοποιώ εξαρχής την δική μου ιδέα. Αποφάσισα λοιπόν να ξεκινήσω από τώρα το δικό μου project.

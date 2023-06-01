@@ -167,9 +167,15 @@
 
 Όταν τελείωσα με τα animations έφτιαξα όλες τις κάμερες και πλέον το master timeline μου ήταν έτσι: 
 
-![Alt Text]()
+![Alt Text](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/final_timeline.gif)
 
 Τέλος, για να ολοκληρωθεί έμενε μονάχα να το περάσω απο το DaVinci Resolve για να το κάνω edit. 
+
+![Alt Text]()
+
+Απο edit το πέρασα επειδή ήθελα να βάλω τους ήχους/μουσική, να φτιάξω κάποια σημεία που είχαν βγει πολύ γρήγορα ή πολύ αργά και να παίξω κάπως με την προσθήκη τίτλων κλπ. Ο λόγος που το έκανα μέσω του DaVinci Resolve και όχι του Unity παρ' όλο που γίνεται ήταν επειδή στο DaVinci Resolve έχω καλύτερο έλεγχο κάποιον πραγμάτων/παραγόντων και επειδή το γνωρίζω καλύτερα και μπορώ να παράξω καλύτερο αποτέλεσμα. 
+
+Η μουσική και τα sound effects που χρησιμοποίησα αντίστοιχα: [Young Peter](https://www.youtube.com/watch?v=fn15NuU-T4M), [Shots Fired](https://www.youtube.com/watch?v=JpwTx4G2EAM), [You're That Spider Guy](https://www.youtube.com/watch?v=_wDqQ9yO_Zc), [MTV SPIDER-SENSE SOUND EFFECT](https://www.youtube.com/watch?v=l0iPJmU6kBA), [THE AMAZING SPIDER-MAN WEB SHOOTER SOUND EFEECT](https://www.youtube.com/watch?v=PlSAlGtJmZU)
 
 Και κάπως έτσι ολοκληρώθηκε και αυτή η εργασία και μπορούσα πλέον να απολαύσω το [τελικό αποτέλεσμα](https://www.youtube.com/watch?v=5iXBQ2fdvYI)
 

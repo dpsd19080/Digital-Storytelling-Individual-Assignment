@@ -13,7 +13,7 @@
 Η ατομική εργασία χωρίζεται σε τρία παραδοτέα: 
 #### [1st Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#1st-deliverable-1):
 #### [2nd Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#2nd-deliverable-1):
-#### [3rd Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#3rd-deliverable):
+#### [3rd Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#3rd-deliverable-1):
 
 # 1st Deliverable
 Μου δόθηκε η επιλογή από τον δηδάσκοντα, είτε να ακολουθήσω επακριβώς τις οδηγίες των Units δημιουργώντας το επιθυμητό αποτέλεσμα με τα assets και τις προδιαγραφές τους για αρχή και έπειτα να κάνω την διαδηκασία ξανά με σκοπό την δημιουργία του δικού μου project (βασισμένο στα units) είτε να αρχίσω να υλοποιώ εξαρχής την δική μου ιδέα. Αποφάσισα λοιπόν να ξεκινήσω από τώρα το δικό μου project.
@@ -177,7 +177,7 @@
 
 Η μουσική και τα sound effects που χρησιμοποίησα αντίστοιχα: [Young Peter](https://www.youtube.com/watch?v=fn15NuU-T4M), [Shots Fired](https://www.youtube.com/watch?v=JpwTx4G2EAM), [You're That Spider Guy](https://www.youtube.com/watch?v=_wDqQ9yO_Zc), [MTV SPIDER-SENSE SOUND EFFECT](https://www.youtube.com/watch?v=l0iPJmU6kBA), [THE AMAZING SPIDER-MAN WEB SHOOTER SOUND EFEECT](https://www.youtube.com/watch?v=PlSAlGtJmZU)
 
-Και κάπως έτσι ολοκληρώθηκε και αυτή η εργασία και μπορούσα πλέον να απολαύσω το [τελικό αποτέλεσμα](https://www.youtube.com/watch?v=5iXBQ2fdvYI)
+Και κάπως έτσι ολοκληρώθηκε και αυτή η εργασία και μπορούσα πλέον να απολαύσω το [τελικό αποτέλεσμα](https://www.youtube.com/watch?v=5iXBQ2fdvYI)!
 
 # Conclusions
 Σε αυτή την εργασία ασχολήθηκα με κάτι το οποίο μου είχε κεντρίσει το ενδιαφέρον από το Λύκειο, αλλά ποτέ δεν μου δόθηκε η ευκαιρία και ο πρέπον χρόνος να πειραματιστώ. Σε αυτό το Project, μέσα από τα παραδοτέα, άρχισα σιγά σιγά να δοκιμάζω πράγματα και να καταλαβαίνω όλο και πιο πολύ πως μ'αρέσει να κάνω 3D animation ταινιούλες αλλά και πως δεν είναι κάτι απίθανο να γίνει αν ψάξεις και πειραματιστείς σωστά.

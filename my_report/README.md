@@ -12,7 +12,7 @@
 # Summary
 Η ατομική εργασία χωρίζεται σε τρία παραδοτέα: 
 #### [1st Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#1st-deliverable-1):
-#### [2nd Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#2nd-deliverable):
+#### [2nd Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#2nd-deliverable-1):
 #### [3rd Deliverable](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#3rd-deliverable):
 
 # 1st Deliverable

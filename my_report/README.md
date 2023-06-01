@@ -159,7 +159,7 @@
 [Τελικό αποτέλεσμα](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/tree/main/dailies/Deliverable2/Unit7)
 
 # 3rd Deliverable 
-
+Στο τελευταίο παραδοτέο δεν υπήρχαν creative challenges οπότε έμενε απλως να ολοκληρώσω το δικό μου animation. Αρχικά, ξεκίνησα να σκέφτομαι μια πιθανή μικρή ιστορία που θα μπορούσα να πω με τον αγαπημένο μου ήρωα, τον Spider-Man. Μετά απο σκέψη κατέληξα στο ότι θα ήθελα να φτιάξω ένα battle ανάμεσα στον Spider-Man που φτιάχνω τόσο καιρό σε συνεργασία με τον συμφοιτητή μου [Μιχαήλ-Άγγελο Σωτήρχο](https://github.com/MichailAngelosSotirchos) και τον αγαπημένο μου live-action Spider-Man του Andrew Garfield. Δεν ήταν απο την αρχή ξεκάθαρη στο μυαλό μου η ακολουθεία των σκηνών, γι' αυτό "έπεσα με τα μούτρα" στο [Mixamo](https://www.mixamo.com/#/) και άρχισα να δοκιμάζω διάφορα animations. Δοκιμή με δοκιμή άρχισα να κρατάω animations, να διαμορφώνω σιγά σιγά μια προσέγγιση και να βγάζω νόημα απο όλα όσα είχα αποθηκεύσει. Οπότε, πέρασα όλα τα αυτόνομα animations στο Unity και αρχισα να τα κάνω blend στο timeline για να φαίνονται σαν ένα ενιαίο animation  
 
 # Conclusions
 

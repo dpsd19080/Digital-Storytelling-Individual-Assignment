@@ -163,7 +163,7 @@
 
 Αρχικά, ξεκίνησα να σκέφτομαι μια πιθανή μικρή ιστορία που θα μπορούσα να πω με τον αγαπημένο μου ήρωα, τον Spider-Man. Μετά απο σκέψη κατέληξα στο ότι θα ήθελα να φτιάξω ένα battle ανάμεσα στον Spider-Man που φτιάχνω τόσο καιρό σε συνεργασία με τον συμφοιτητή μου [Μιχαήλ-Άγγελο Σωτήρχο](https://github.com/MichailAngelosSotirchos) και τον αγαπημένο μου live-action Spider-Man του Andrew Garfield. Δεν ήταν απο την αρχή ξεκάθαρη στο μυαλό μου η ακολουθεία των σκηνών, γι' αυτό "έπεσα με τα μούτρα" στο [Mixamo](https://www.mixamo.com/#/) και άρχισα να δοκιμάζω διάφορα animations. Δοκιμή με δοκιμή άρχισα να κρατάω animations, να διαμορφώνω σιγά σιγά μια προσέγγιση και να βγάζω νόημα απο όλα όσα είχα αποθηκεύσει. Οπότε, πέρασα όλα τα αυτόνομα animations στο Unity και αρχισα να τα κάνω blend στο timeline για να φαίνονται σαν ένα ενιαίο animation  
 
-![Alt Text]()
+![Alt Text](https://github.com/dpsd19080/Digital-Storytelling-Individual-Assignment/blob/main/my_report/animations_mixamo.gif)
 
 Όταν τελείωσα με τα animations έφτιαξα όλες τις κάμερες και πλέον το master timeline μου ήταν έτσι: 
 
